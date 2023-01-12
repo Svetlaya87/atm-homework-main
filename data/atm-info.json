@@ -1,0 +1,43 @@
+[
+    {
+        "denomination": 1000,
+        "quantity": 50,
+        "_comment1": "кол-во изначально 50"
+    },
+    {
+        "denomination": 500,
+        "quantity": 32
+    },
+    {
+        "denomination": 200,
+        "quantity": 50
+    },
+    {
+        "denomination": 100,
+        "quantity": 16
+    },
+    {
+        "denomination": 50,
+        "quantity": 0
+    },
+    {
+        "denomination": 20,
+        "quantity": 5
+    },
+    {
+        "denomination": 10,
+        "quantity": 3
+    },
+    {
+        "denomination": 5,
+        "quantity": 22
+    },
+    {
+        "denomination": 2,
+        "quantity": 4
+    },
+    {
+        "denomination": 1,
+        "quantity": 0
+    }
+]
